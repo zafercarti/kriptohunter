@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.kriptohunter.com/sitemap.xml
+
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /assets/
